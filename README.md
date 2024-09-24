@@ -18,12 +18,8 @@ The study is focused on three largest cities of the Netherlands: The Hague, Rott
 
 We analyze ambulance calls on a _typical autumn weekday_. A typical weekday is an average over the days of three autumn seasons for years of ambulance call data from 2017, 2018, and 2019. Previous research has indicated that analyzing autumn can help focus on the city without many external factors: carnivals, tourists, etc. Additionally, on weekdays, all three cities have more calls and less inter-city mobility than on weekends, simplifying the pattern interpretation.
 
-Finally, we aggregate the calls over six four-hour bins and allocate them to one of the 500 by 500 m2 grid cells in each city.
-
-![Data preparation pipeline](report/figures/appendix/figs2.jpg)
-
 Please look at the [supplementary material](https://journals.sagepub.com/doi/suppl/10.1177/23998083241272095/suppl_file/sj-pdf-1-epb-10.1177_23998083241272095.pdf) for more information about all the choices and reasoning behind them.
 
 ## Authors
 
-_Mikhail Sirenko_
+Mikhail Sirenko
